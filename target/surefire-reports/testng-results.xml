@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-07T12:52:29 IST" name="Surefire suite" finished-at="2022-12-07T12:52:29 IST" duration-ms="131">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T12:52:29 IST" name="Surefire test" finished-at="2022-12-07T12:52:29 IST" duration-ms="131">
+      <class name="com.testng.TestNgTest">
+        <test-method signature="Test1()[pri:0, instance:com.testng.TestNgTest@971d0d8]" started-at="2022-12-07T12:52:29 IST" name="Test1" finished-at="2022-12-07T12:52:29 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="test()[pri:0, instance:com.testng.TestNgTest@971d0d8]" started-at="2022-12-07T12:52:29 IST" name="test" finished-at="2022-12-07T12:52:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.testng.TestNgTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
