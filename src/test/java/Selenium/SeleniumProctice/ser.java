@@ -28,6 +28,9 @@ public class ser {
 	@Test
 	public void test5() {
 		System.out.println("Executing method5");
+		System.out.println("Executing method 7");
+		System.out.println("Executing method *");
+		
 	}
 
 }
